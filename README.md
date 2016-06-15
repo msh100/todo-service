@@ -19,4 +19,3 @@ Todo-service lives on Kubernetes
 ./todo-service start [--service-port XXXX] start
 ```
 
-
